@@ -75,7 +75,7 @@ Don't build and run the client until you have one of the servers running. Dont' 
 
 ### Go server
 
-Read the [Go server instructions](server/go/README.md). You can get your Server API Key and Sender ID for your project from its **Download and install configuration** page at https://developers.google.com/mobile.add.
+Read the [Go server instructions](server/Go/README.md). You can get your Server API Key and Sender ID for your project from its **Download and install configuration** page at https://developers.google.com/mobile.add.
 
 ### Java server
 
